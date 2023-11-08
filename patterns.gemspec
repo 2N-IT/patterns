@@ -3,8 +3,8 @@
 require_relative "lib/patterns/version"
 
 Gem::Specification.new do |spec|
-  spec.name = "patterns"
-  spec.version = Patterns::VERSION
+  spec.name = "2n-patterns"
+  spec.version = "0.0.0"
   spec.authors = ["krzykamil"]
   spec.email = ["kk.pio@protonmail.com"]
 
